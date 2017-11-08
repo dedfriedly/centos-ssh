@@ -4,7 +4,7 @@
 # CentOS-7 7.4.1708 x86_64 - SCL/EPEL/IUS Repos. / Supervisor / OpenSSH.
 # 
 # =============================================================================
-FROM centos:7.4.1708
+FROM centos7
 
 # -----------------------------------------------------------------------------
 # Base Install + Import the RPM GPG keys for Repositories
